@@ -9,7 +9,7 @@ To make use of the BankChurnGaurd capabilities, simply follow these installation
 Begin by cloning this repository to your local machine. Open your terminal and execute the following command:
 
 ```bash
-https://github.com/BugsBunny-PG/Fake-News-Prediction.git
+https://github.com/BugsBunny-PG/BankChurnGuard.git
 ```
 ###  Set Up a Virtual Environment (Optional but Recommended)
 It is advisable to work within a virtual environment to maintain a clean and isolated development environment. To create and activate a virtual environment, execute the following commands:
